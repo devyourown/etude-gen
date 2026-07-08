@@ -1,0 +1,23 @@
+{
+  "name": "etude-gen",
+  "version": "0.1.0",
+  "description": "Generate validated, playable piano practice songs from a spec — an LLM writes symbolic music, a deterministic compiler makes it real",
+  "type": "module",
+  "bin": { "etude-gen": "dist/cli.js" },
+  "scripts": {
+    "build": "tsc",
+    "typecheck": "tsc --noEmit",
+    "generate": "tsx src/cli.ts"
+  },
+  "keywords": ["openai", "structured-outputs", "midi", "music-generation", "llm"],
+  "license": "MIT",
+  "dependencies": {
+    "openai": "^4.104.0",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.5.0"
+  }
+}

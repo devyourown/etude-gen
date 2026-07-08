@@ -1,0 +1,77 @@
+{
+  "title": "Meadow Morning",
+  "key": "C",
+  "tempo_bpm": 92,
+  "time_signature": { "beats": 4, "unit": 4 },
+  "difficulty": "easy",
+  "measures": [
+    {
+      "n": 1,
+      "notes": [
+        { "hand": "R", "pitch": "E4", "beat": 1, "len": 1 },
+        { "hand": "R", "pitch": "F4", "beat": 2, "len": 1 },
+        { "hand": "R", "pitch": "G4", "beat": 3, "len": 2 },
+        { "hand": "L", "pitch": "C3", "beat": 1, "len": 4 }
+      ]
+    },
+    {
+      "n": 2,
+      "notes": [
+        { "hand": "R", "pitch": "G4", "beat": 1, "len": 1 },
+        { "hand": "R", "pitch": "A4", "beat": 2, "len": 1 },
+        { "hand": "R", "pitch": "G4", "beat": 3, "len": 2 },
+        { "hand": "L", "pitch": "F2", "beat": 1, "len": 4 }
+      ]
+    },
+    {
+      "n": 3,
+      "notes": [
+        { "hand": "R", "pitch": "F4", "beat": 1, "len": 1 },
+        { "hand": "R", "pitch": "E4", "beat": 2, "len": 1 },
+        { "hand": "R", "pitch": "D4", "beat": 3, "len": 2 },
+        { "hand": "L", "pitch": "G2", "beat": 1, "len": 4 }
+      ]
+    },
+    {
+      "n": 4,
+      "notes": [
+        { "hand": "R", "pitch": "C4", "beat": 1, "len": 4 },
+        { "hand": "L", "pitch": "C3", "beat": 1, "len": 4 }
+      ]
+    },
+    {
+      "n": 5,
+      "notes": [
+        { "hand": "R", "pitch": "E4", "beat": 1, "len": 1 },
+        { "hand": "R", "pitch": "F4", "beat": 2, "len": 1 },
+        { "hand": "R", "pitch": "G4", "beat": 3, "len": 2 },
+        { "hand": "L", "pitch": "C3", "beat": 1, "len": 4 }
+      ]
+    },
+    {
+      "n": 6,
+      "notes": [
+        { "hand": "R", "pitch": "A4", "beat": 1, "len": 1 },
+        { "hand": "R", "pitch": "G4", "beat": 2, "len": 1 },
+        { "hand": "R", "pitch": "F4", "beat": 3, "len": 2 },
+        { "hand": "L", "pitch": "F2", "beat": 1, "len": 4 }
+      ]
+    },
+    {
+      "n": 7,
+      "notes": [
+        { "hand": "R", "pitch": "D4", "beat": 1, "len": 1 },
+        { "hand": "R", "pitch": "E4", "beat": 2, "len": 1 },
+        { "hand": "R", "pitch": "D4", "beat": 3, "len": 2 },
+        { "hand": "L", "pitch": "G2", "beat": 1, "len": 4 }
+      ]
+    },
+    {
+      "n": 8,
+      "notes": [
+        { "hand": "R", "pitch": "C4", "beat": 1, "len": 4 },
+        { "hand": "L", "pitch": "C2", "beat": 1, "len": 4 }
+      ]
+    }
+  ]
+}
