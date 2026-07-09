@@ -1,0 +1,436 @@
+{
+  "title": "Morning Brook",
+  "key": "C",
+  "tempoBpm": 84,
+  "timeSignature": {
+    "beats": 4,
+    "unit": 4
+  },
+  "difficulty": "easy",
+  "durationMs": 22857,
+  "notes": [
+    {
+      "hand": "L",
+      "pitch": "C3",
+      "midi": 48,
+      "measure": 1,
+      "beat": 1,
+      "startMs": 0,
+      "durationMs": 714
+    },
+    {
+      "hand": "R",
+      "pitch": "E4",
+      "midi": 64,
+      "measure": 1,
+      "beat": 1,
+      "startMs": 0,
+      "durationMs": 1429
+    },
+    {
+      "hand": "L",
+      "pitch": "E3",
+      "midi": 52,
+      "measure": 1,
+      "beat": 2,
+      "startMs": 714,
+      "durationMs": 714
+    },
+    {
+      "hand": "L",
+      "pitch": "G3",
+      "midi": 55,
+      "measure": 1,
+      "beat": 3,
+      "startMs": 1429,
+      "durationMs": 714
+    },
+    {
+      "hand": "R",
+      "pitch": "G4",
+      "midi": 67,
+      "measure": 1,
+      "beat": 3,
+      "startMs": 1429,
+      "durationMs": 1429
+    },
+    {
+      "hand": "L",
+      "pitch": "E3",
+      "midi": 52,
+      "measure": 1,
+      "beat": 4,
+      "startMs": 2143,
+      "durationMs": 714
+    },
+    {
+      "hand": "L",
+      "pitch": "A2",
+      "midi": 45,
+      "measure": 2,
+      "beat": 1,
+      "startMs": 2857,
+      "durationMs": 714
+    },
+    {
+      "hand": "R",
+      "pitch": "A4",
+      "midi": 69,
+      "measure": 2,
+      "beat": 1,
+      "startMs": 2857,
+      "durationMs": 1429
+    },
+    {
+      "hand": "L",
+      "pitch": "C3",
+      "midi": 48,
+      "measure": 2,
+      "beat": 2,
+      "startMs": 3571,
+      "durationMs": 714
+    },
+    {
+      "hand": "L",
+      "pitch": "E3",
+      "midi": 52,
+      "measure": 2,
+      "beat": 3,
+      "startMs": 4286,
+      "durationMs": 714
+    },
+    {
+      "hand": "R",
+      "pitch": "G4",
+      "midi": 67,
+      "measure": 2,
+      "beat": 3,
+      "startMs": 4286,
+      "durationMs": 1429
+    },
+    {
+      "hand": "L",
+      "pitch": "C3",
+      "midi": 48,
+      "measure": 2,
+      "beat": 4,
+      "startMs": 5000,
+      "durationMs": 714
+    },
+    {
+      "hand": "L",
+      "pitch": "F2",
+      "midi": 41,
+      "measure": 3,
+      "beat": 1,
+      "startMs": 5714,
+      "durationMs": 714
+    },
+    {
+      "hand": "R",
+      "pitch": "F4",
+      "midi": 65,
+      "measure": 3,
+      "beat": 1,
+      "startMs": 5714,
+      "durationMs": 1429
+    },
+    {
+      "hand": "L",
+      "pitch": "A2",
+      "midi": 45,
+      "measure": 3,
+      "beat": 2,
+      "startMs": 6429,
+      "durationMs": 714
+    },
+    {
+      "hand": "L",
+      "pitch": "C3",
+      "midi": 48,
+      "measure": 3,
+      "beat": 3,
+      "startMs": 7143,
+      "durationMs": 714
+    },
+    {
+      "hand": "R",
+      "pitch": "A4",
+      "midi": 69,
+      "measure": 3,
+      "beat": 3,
+      "startMs": 7143,
+      "durationMs": 1429
+    },
+    {
+      "hand": "L",
+      "pitch": "A2",
+      "midi": 45,
+      "measure": 3,
+      "beat": 4,
+      "startMs": 7857,
+      "durationMs": 714
+    },
+    {
+      "hand": "L",
+      "pitch": "G2",
+      "midi": 43,
+      "measure": 4,
+      "beat": 1,
+      "startMs": 8571,
+      "durationMs": 714
+    },
+    {
+      "hand": "R",
+      "pitch": "G4",
+      "midi": 67,
+      "measure": 4,
+      "beat": 1,
+      "startMs": 8571,
+      "durationMs": 1429
+    },
+    {
+      "hand": "L",
+      "pitch": "B2",
+      "midi": 47,
+      "measure": 4,
+      "beat": 2,
+      "startMs": 9286,
+      "durationMs": 714
+    },
+    {
+      "hand": "L",
+      "pitch": "D3",
+      "midi": 50,
+      "measure": 4,
+      "beat": 3,
+      "startMs": 10000,
+      "durationMs": 714
+    },
+    {
+      "hand": "R",
+      "pitch": "D5",
+      "midi": 74,
+      "measure": 4,
+      "beat": 3,
+      "startMs": 10000,
+      "durationMs": 1429
+    },
+    {
+      "hand": "L",
+      "pitch": "B2",
+      "midi": 47,
+      "measure": 4,
+      "beat": 4,
+      "startMs": 10714,
+      "durationMs": 714
+    },
+    {
+      "hand": "L",
+      "pitch": "C3",
+      "midi": 48,
+      "measure": 5,
+      "beat": 1,
+      "startMs": 11429,
+      "durationMs": 714
+    },
+    {
+      "hand": "R",
+      "pitch": "C5",
+      "midi": 72,
+      "measure": 5,
+      "beat": 1,
+      "startMs": 11429,
+      "durationMs": 1429
+    },
+    {
+      "hand": "L",
+      "pitch": "E3",
+      "midi": 52,
+      "measure": 5,
+      "beat": 2,
+      "startMs": 12143,
+      "durationMs": 714
+    },
+    {
+      "hand": "L",
+      "pitch": "G3",
+      "midi": 55,
+      "measure": 5,
+      "beat": 3,
+      "startMs": 12857,
+      "durationMs": 714
+    },
+    {
+      "hand": "R",
+      "pitch": "A4",
+      "midi": 69,
+      "measure": 5,
+      "beat": 3,
+      "startMs": 12857,
+      "durationMs": 1429
+    },
+    {
+      "hand": "L",
+      "pitch": "E3",
+      "midi": 52,
+      "measure": 5,
+      "beat": 4,
+      "startMs": 13571,
+      "durationMs": 714
+    },
+    {
+      "hand": "L",
+      "pitch": "D3",
+      "midi": 50,
+      "measure": 6,
+      "beat": 1,
+      "startMs": 14286,
+      "durationMs": 714
+    },
+    {
+      "hand": "R",
+      "pitch": "G4",
+      "midi": 67,
+      "measure": 6,
+      "beat": 1,
+      "startMs": 14286,
+      "durationMs": 1429
+    },
+    {
+      "hand": "L",
+      "pitch": "F3",
+      "midi": 53,
+      "measure": 6,
+      "beat": 2,
+      "startMs": 15000,
+      "durationMs": 714
+    },
+    {
+      "hand": "L",
+      "pitch": "A3",
+      "midi": 57,
+      "measure": 6,
+      "beat": 3,
+      "startMs": 15714,
+      "durationMs": 714
+    },
+    {
+      "hand": "R",
+      "pitch": "F4",
+      "midi": 65,
+      "measure": 6,
+      "beat": 3,
+      "startMs": 15714,
+      "durationMs": 1429
+    },
+    {
+      "hand": "L",
+      "pitch": "F3",
+      "midi": 53,
+      "measure": 6,
+      "beat": 4,
+      "startMs": 16429,
+      "durationMs": 714
+    },
+    {
+      "hand": "L",
+      "pitch": "G2",
+      "midi": 43,
+      "measure": 7,
+      "beat": 1,
+      "startMs": 17143,
+      "durationMs": 714
+    },
+    {
+      "hand": "R",
+      "pitch": "E4",
+      "midi": 64,
+      "measure": 7,
+      "beat": 1,
+      "startMs": 17143,
+      "durationMs": 1429
+    },
+    {
+      "hand": "L",
+      "pitch": "B2",
+      "midi": 47,
+      "measure": 7,
+      "beat": 2,
+      "startMs": 17857,
+      "durationMs": 714
+    },
+    {
+      "hand": "L",
+      "pitch": "D3",
+      "midi": 50,
+      "measure": 7,
+      "beat": 3,
+      "startMs": 18571,
+      "durationMs": 714
+    },
+    {
+      "hand": "R",
+      "pitch": "D4",
+      "midi": 62,
+      "measure": 7,
+      "beat": 3,
+      "startMs": 18571,
+      "durationMs": 1429
+    },
+    {
+      "hand": "L",
+      "pitch": "B2",
+      "midi": 47,
+      "measure": 7,
+      "beat": 4,
+      "startMs": 19286,
+      "durationMs": 714
+    },
+    {
+      "hand": "L",
+      "pitch": "C3",
+      "midi": 48,
+      "measure": 8,
+      "beat": 1,
+      "startMs": 20000,
+      "durationMs": 714
+    },
+    {
+      "hand": "R",
+      "pitch": "C5",
+      "midi": 72,
+      "measure": 8,
+      "beat": 1,
+      "startMs": 20000,
+      "durationMs": 2857
+    },
+    {
+      "hand": "L",
+      "pitch": "E3",
+      "midi": 52,
+      "measure": 8,
+      "beat": 2,
+      "startMs": 20714,
+      "durationMs": 714
+    },
+    {
+      "hand": "L",
+      "pitch": "G3",
+      "midi": 55,
+      "measure": 8,
+      "beat": 3,
+      "startMs": 21429,
+      "durationMs": 714
+    },
+    {
+      "hand": "L",
+      "pitch": "C3",
+      "midi": 48,
+      "measure": 8,
+      "beat": 4,
+      "startMs": 22143,
+      "durationMs": 714
+    }
+  ]
+}

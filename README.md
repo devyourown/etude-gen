@@ -53,6 +53,9 @@ npm run generate -- --difficulty normal --key G --measures 8 --technique "broken
 npm run generate -- --from-ir examples/meadow-morning.json
 ```
 
+Want to see real model output first? [`examples/generated/`](examples/generated/) holds
+**Morning Brook**, an actual generated song (IR + compiled chart + `.mid`) from one run.
+
 Outputs land in `out/`:
 
 | File | What it is |
